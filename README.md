@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/danielkigozi15" target="blank"><img src="https://img.shields.io/twitter/follow/danielkigozi15?logo=twitter&style=for-the-badge" alt="danielkigozi15" /></a> </p>
 
-- 💬 Ask me about **Javascript, React, Python, Html, CSS**
+- 💬 Ask me about **JavaScript, React, Python, HTML, CSS**
 
 - 📫 How to reach me **kdanalex69@gmail.com**
 
